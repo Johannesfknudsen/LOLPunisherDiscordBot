@@ -1,0 +1,11 @@
+{
+  "name": "LOL-Punisher",
+  "version": "0.0.1",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Johannes Knudsen",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
